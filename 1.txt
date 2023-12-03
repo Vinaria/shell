@@ -1,0 +1,6 @@
+7
+1.txt
+a.out
+main.c
+t
+test_sum.c
